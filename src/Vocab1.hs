@@ -1,4 +1,4 @@
-module Lib
+module Vocab1
     ( someFunc
     ) where
 

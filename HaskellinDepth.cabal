@@ -25,7 +25,7 @@ source-repository head
 
 library
   exposed-modules:
-      Lib
+      Vocab1
   other-modules:
       Paths_HaskellinDepth
   hs-source-dirs:
